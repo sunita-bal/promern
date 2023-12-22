@@ -1,0 +1,4 @@
+node_modules
+config.env
+
+# when this pushed to github then it will not shows the cofig.env
